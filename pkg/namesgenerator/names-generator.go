@@ -660,6 +660,9 @@ var (
 		// Srinivasa Ramanujan - Indian mathematician and autodidact who made extraordinary contributions to mathematical analysis, number theory, infinite series, and continued fractions. - https://en.wikipedia.org/wiki/Srinivasa_Ramanujan
 		"ramanujan",
 
+		// Sylvia Ratnasamy Belgian - Indian computer scientist best known as one of the inventors of the distributed hash table (DHT). - https://en.wikipedia.org/wiki/Sylvia_Ratnasamy
+		"ratnasamy",
+
 		// Sally Kristen Ride was an American physicist and astronaut. She was the first American woman in space, and the youngest American astronaut. https://en.wikipedia.org/wiki/Sally_Ride
 		"ride",
 
